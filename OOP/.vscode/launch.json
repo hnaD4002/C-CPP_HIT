@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/danh/Desktop/HIT/C:C++/OOP",
+      "program": "/Users/danh/Desktop/HIT/C:C++/OOP/build/Debug/outDebug"
+    }
+  ]
+}

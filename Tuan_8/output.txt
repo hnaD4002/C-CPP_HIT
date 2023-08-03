@@ -1,0 +1,6 @@
+5
+3 4 5 tam giac vuong
+1 2 3 khong phai tam giac
+3 3 5 tam giac can
+4 5 6 tam giac nhon
+6 8 10 tam giac vuong
